@@ -5,7 +5,7 @@
 # 파일 다운로드 방법
 
 #### 1) 전체 파일 다운로드 
-우측 상단의 초록색 버튼인 [code] 버튼을 누르면 됩니다.
+우측 상단의 초록색 버튼인 [code] 버튼을 누른 후 [download ZIP] 부분을 누르면 됩니다.
 
 #### 2) 특정 파일 다운로드
 해당 파일을 클릭해서 들어간 후 흰색 [download ZIP] 부분을 누르면 됩니다.
@@ -31,7 +31,6 @@
 <b>Scipy</b>: https://docs.scipy.org/doc/scipy-1.2.1/reference/ <br>
 <b>StatsModels</b>: https://www.statsmodels.org/stable/index.html <br>
 <br>
-### [Etc.]
-DB연결: http://pythonstudy.xyz/python/article/202-MySQL-%EC%BF%BC%EB%A6%AC <br>
-datetime: https://docs.python.org/3/library/datetime.html <br>
-time frequency ref.: https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html <br>
+
+### [Blog]
+<b>Data Doctor</b>: https://datadoctorblog.com/ <br>
